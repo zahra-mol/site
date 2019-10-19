@@ -33,7 +33,7 @@
         <br><br>
         <input type="text" name="pass" id="pass" placeholder="password">
         <br><br>
-        <input type="submit" name="btn" id="btn" value="ورود">
+        <input type="submit" name="btn" id="btn" value="ور">
 
     </form>
 </div>   
